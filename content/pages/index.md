@@ -11,7 +11,7 @@ sections:
       - label: Try Free
         url: /pricing
         style: primary
-        new_window: true
+        new_window: false
       - label: Learn More
         url: /features
         style: secondary
