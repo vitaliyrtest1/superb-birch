@@ -15,7 +15,6 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/beige-oregano.jpg
     media_position: left
     media_width: fifty
     align: left
