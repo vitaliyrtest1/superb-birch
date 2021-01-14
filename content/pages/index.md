@@ -13,7 +13,7 @@ sections:
         style: primary
         new_window: false
       - label: Learn More
-        url: /features
+        url: 'http://salen.dev'
         style: secondary
     media_position: left
     media_width: fifty
